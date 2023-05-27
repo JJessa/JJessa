@@ -41,7 +41,7 @@ I'm interested in UX/UI design and its impact on creating intuitive, user-centri
 
 
 ## Github Stats  
-<div>
+<div style="flex-wrap">
 
 <img src="https://github-readme-stats.vercel.app/api?username=JJessa&show_icons=true&count_private=true&hide_border=true"  style="width: 40%" />
 
