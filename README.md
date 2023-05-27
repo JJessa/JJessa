@@ -1,4 +1,4 @@
-## Hey 👋, I'm Jessica Mosteiro!  
+## Hi 👋, I'm Jessica Mosteiro!  
   
 
 
