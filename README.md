@@ -55,7 +55,4 @@ I'm interested in UX/UI design and its impact on creating intuitive, user-centri
 
   
 
-<br/>  
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
