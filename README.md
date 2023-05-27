@@ -56,15 +56,7 @@ I'm interested in UX/UI design and its impact on creating intuitive, user-centri
   
 
 <br/>  
-###
 
-<div align="center">
- <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-
-
-</div>
-
-###
 
 <br/>  
 
