@@ -57,7 +57,7 @@ I'm interested in UX/UI design and its impact on creating intuitive, user-centri
 
 <br/>  
 
-  
+<img src="https://raw.githubusercontent.com/JJessa/JJessa/output/snake.svg" alt="Snake animation" />
 
 <br/>  
 
