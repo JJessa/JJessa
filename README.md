@@ -24,7 +24,7 @@ I'm interested in UX/UI design and its impact on creating intuitive, user-centri
 
 
 ## Languages and Tools  
-<div align="center">  
+<div>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="35" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="35" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="35" /></a>  
@@ -41,7 +41,7 @@ I'm interested in UX/UI design and its impact on creating intuitive, user-centri
 
 
 ## Github Stats  
-<div align="center">
+<div>
 
 <img src="https://github-readme-stats.vercel.app/api?username=JJessa&show_icons=true&count_private=true&hide_border=true"  style="width: 40%" />
 
