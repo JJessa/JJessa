@@ -11,7 +11,7 @@ I'm interested in UX/UI design and its impact on creating intuitive, user-centri
 
 
 
-### You also can find me here:  
+### You can also find me here:  
 <a href="https://linkedin.com/in/jessica-mosteiro" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -59,7 +59,7 @@ I'm interested in UX/UI design and its impact on creating intuitive, user-centri
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" src="[https://i.imgflip.com/65efzo.gif](https://giphy.com/gifs/animated-hello-waving-bcKmIWkUMCjVm)"  />
 </div>
 
 ###
