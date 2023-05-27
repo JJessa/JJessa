@@ -61,8 +61,7 @@ I'm interested in UX/UI design and its impact on creating intuitive, user-centri
 <div align="center">
   <img height="200" src="https://giphy.com/gifs/animated-hello-waving-bcKmIWkUMCjVm"  />
   <img height="200" src="https://giphy.com/embed/bcKmIWkUMCjVm" />
-  
-  </div><p><a href="https://giphy.com/gifs/animated-hello-waving-bcKmIWkUMCjVm">via GIPHY</a></p>
+
 </div>
 
 ###
